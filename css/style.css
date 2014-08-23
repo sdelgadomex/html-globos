@@ -1,0 +1,16 @@
+img {
+  margin: 200px auto 0;
+  display: block;
+}
+
+
+.globo {
+  position: absolute;
+  bottom: 1em;
+}
+
+body {
+  background-color: #B7DFED;
+  background-image: url(../images/nubes.png);
+}
+
